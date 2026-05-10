@@ -1,3 +1,11 @@
+
+ASK
+PLAN
+Implement
+Review DIFF
+Run/Test
+commit
+
 # Ecommerce Sexdoll
 
 Ecommerce storefront built with `Next.js`, `React`, `TypeScript`, `Tailwind CSS`, and `MySQL` via `XAMPP`.
